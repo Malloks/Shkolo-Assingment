@@ -1,0 +1,16 @@
+{
+    "name": "firebase-hyperlink-app",
+    "version": "1.0.0",
+    "description": "A project to manage hyperlinks using Firebase Firestore.",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "firebase-admin": "^11.0.1"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
